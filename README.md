@@ -13,7 +13,7 @@
 
 <div align="center"> <br><br>
   
-   [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,figma,mysql,java)](https://skills.thijs.gg)
+   [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,react,mysql,java)](https://skills.thijs.gg)
 </div>
 
 ##
