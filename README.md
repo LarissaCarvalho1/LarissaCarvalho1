@@ -1,8 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFFD7&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE06FA&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE06FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+muito+bem-vindo(a)+ao+meu+perfil+😀!;)](https://git.io/typing-svg) 
 
+## ⭐ Sobre mim
+- 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas - 1° Semestre
+- 🥇 Aluna Destaque - Instituto Proa 2023
+- 🥰 Movida por desafios e apaixonada por tecnologia
+- 📚 Apaixonada por conhecimento
 
-
+🌟 "Faça o teu melhor, nas condições que você tem, enquanto você   
+não tem condições melhores para fazer melhor ainda!" - Mário Sergio Cortella
 
 ### 🌐 Vamos nos conectar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](https://linkedin.com/in/larissacarvalho020)
@@ -29,4 +36,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE06FA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFFD7&height=120&section=footer"/>
