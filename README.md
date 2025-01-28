@@ -2,6 +2,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE06FA&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
+
+
+### 🌐 Vamos nos conectar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](https://linkedin.com/in/larissacarvalho020)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](https://www.instagram.com/larissa_carvalho___)
+[![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:larissacarvalho530@gmail.com)
+
 ##  
 
 ### 👩‍💻  Tecnologias que estou aprendendo
@@ -14,10 +21,6 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=E94D5F)
 
 ##
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](https://linkedin.com/in/larissacarvalho020)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](https://www.instagram.com/larissa_carvalho___)
-[![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:larissacarvalho530@gmail.com)
 
 ### GitHub Stats
 <div>
