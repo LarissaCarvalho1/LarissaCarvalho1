@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFFD7&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE06FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+muito+bem-vindo(a)+ao+meu+perfil+😀!;)](https://git.io/typing-svg) 
 
 ## ⭐ Sobre mim
@@ -34,6 +32,3 @@ não tem condições melhores para fazer melhor ainda!" - Mário Sergio Cortella
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaCarvalho1&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCarvalho1&layout=compact&langs_count=16&theme=jolly"/>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFFD7&height=120&section=footer"/>
