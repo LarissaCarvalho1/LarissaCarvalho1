@@ -22,7 +22,6 @@ não tem condições melhores para fazer melhor ainda!" - Mário Sergio Cortella
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=30A3DC) 
-![Bootstrap](https://img.shields.io/badge/-boostrap-black?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=E94D5F)
 
 ##
