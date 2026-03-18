@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE06FA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+muito+bem-vindo(a)+ao+meu+perfil+😀!;)](https://git.io/typing-svg) 
 
 ## ⭐ Sobre mim
-- 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas - 3° Semestre
+- 🥇 Aluna Nota 1000 Transforme-se - Instituto Proa + Serasa 2025
 - 🥇 Aluna Destaque - Instituto Proa 2023
 - 🥰 Movida por desafios e apaixonada por tecnologia
 - 📚 Apaixonada por conhecimento
